@@ -1,0 +1,30 @@
+body {
+    cursor: crosshair;
+    background-image: url("https://previews.123rf.com/images/acceleratorhams/acceleratorhams1506/acceleratorhams150600096/41493767-new-forest-hampshire-england-uk-mother-and-baby-donkey-cuddling-in-the-summer-sunshine.jpg");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+h1{
+position: relative;
+color: white;
+top: 33.33%;
+font-family: 'Fredoka One', cursive;
+font-size: 7vw;
+}
+
+
+
+@media screen and (max-width: 600px) {
+ background-image: url("https://media.istockphoto.com/photos/close-up-of-white-baby-donkey-picture-id180736209?k=6&m=180736209&s=170667a&w=0&h=K9B98C01UwFNfg46PWWy87643SgXSlSdyzuezHzkBNg=");
+ background-size: contain;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+};
+   
